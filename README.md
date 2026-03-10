@@ -67,3 +67,6 @@ src/main/java/br/com/alura/literalura/
 ├── Repository/        # Repositórios JPA (AutorRepository, LivroRepository)
 └── Service/           # Conversão e desserialização de dados JSON
 ```
+
+## Emblema do Challenge 
+<img width="210" height="210" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/56d2bf22-cf82-40f7-b8bd-2e5c9c3e891d" />
